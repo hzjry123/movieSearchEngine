@@ -1,0 +1,315 @@
+<DOC>
+<DOCNO>tt0120737</DOCNO>
+<html>
+<TEXT>
+<title>The Lord of the Rings: The Fellowship of the Ring (2001) - IMDb</title>
+<span itemprop="director" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0001392/?ref_=tt_ov_dr" itemprop="url"><span class="itemprop" itemprop="name">Peter Jackson</span></a> </span>
+<div class="see-more inline canwrap" itemprop="genre">
+<h4 class="inline">Genres:</h4>
+<a href="/genre/Adventure?ref_=tt_stry_gnr"> Adventure</a> <span>|</span>
+<a href="/genre/Drama?ref_=tt_stry_gnr"> Drama</a> <span>|</span>
+<a href="/genre/Fantasy?ref_=tt_stry_gnr"> Fantasy</a>
+</div>
+<actor: characters>
+{'Alan Howard': 'VoiceoftheRing(voice)', 'Noel Appleby': 'EverardProudfoot', 'Sean Astin': 'Sam', 'Sala Baker': 'Sauron', 'Sean Bean': 'Boromir', 'Cate Blanchett': 'Galadriel', 'Orlando Bloom': 'Legolas', 'Billy Boyd': 'Pippin', 'Marton Csokas': 'Celeborn', 'Megan Edwards': 'Mrs.Proudfoot', 'Michael Elsworth': 'GondorianArchivist', 'Mark Ferguson': 'Gil-galad', 'Ian Holm': 'Bilbo', 'Christopher Lee': 'Saruman', 'Lawrence Makoare': 'Lurtz'}
+</actor: characters>
+<Synopsis>
+An ancient Ring thought lost for centuries has been found, and through a strange twist in fate has been given to a small Hobbit named Frodo. When Gandalf discovers the Ring is in fact the One Ring of the Dark Lord Sauron, Frodo must make an epic quest to the Cracks of Doom in order to destroy it! However he does not go alone. He is joined by Gandalf, Legolas the elf, Gimli the Dwarf, Aragorn, Boromir and his three Hobbit friends Merry, Pippin and Samwise. Through mountains, snow, darkness, forests, rivers and plains, facing evil and danger at every corner the Fellowship of the Ring must go. Their quest to destroy the One Ring is the only hope for the end of the Dark Lords reign! Written by
+Paul Twomey <toomsp@hotmail.com>
+</Synopsis>
+</TEXT>
+<div class="poster">
+<a href="/title/tt0120737/mediaviewer/rm3592958976?ref_=tt_ov_i"> <img alt="The Lord of the Rings: The Fellowship of the Ring Poster" itemprop="image" src="https://ia.media-imdb.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UX182_CR0,0,182,268_AL_.jpg" title="The Lord of the Rings: The Fellowship of the Ring Poster"/>
+</a> </div>
+<meta content="2001-12-19" itemprop="datePublished">
+</meta>
+<span itemprop="ratingValue">8.8</span>
+<IMDb link>
+http://www.imdb.com/title/tt0120737/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=A9F6CQZH5HNA9KY103MF&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_11
+</IMDb link>
+</html>
+</DOC>
+<DOC>
+<DOCNO>tt0060827</DOCNO>
+<html>
+<TEXT>
+<title>Persona (1966) - IMDb</title>
+<span itemprop="director" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0000005/?ref_=tt_ov_dr" itemprop="url"><span class="itemprop" itemprop="name">Ingmar Bergman</span></a> </span>
+<div class="see-more inline canwrap" itemprop="genre">
+<h4 class="inline">Genres:</h4>
+<a href="/genre/Drama?ref_=tt_stry_gnr"> Drama</a> <span>|</span>
+<a href="/genre/Thriller?ref_=tt_stry_gnr"> Thriller</a>
+</div>
+<actor: characters>
+{'Bibi Andersson': 'Alma', 'Liv Ullmann': 'ElisabetVogler', 'Margaretha Krook': 'TheDoctor', 'Gunnar Björnstrand': 'Mr.Vogler'}
+</actor: characters>
+<Synopsis>
+A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer. Alma eventually confesses her secrets to a seemingly sympathetic Elisabeth and finds that her own personality is being submerged into Elisabeth's persona. Written by
+Kathy Li
+</Synopsis>
+</TEXT>
+<div class="poster">
+<a href="/title/tt0060827/mediaviewer/rm794438656?ref_=tt_ov_i"> <img alt="Persona Poster" itemprop="image" src="https://ia.media-imdb.com/images/M/MV5BMTM0YzExY2EtMjUyZi00ZmIwLWFkYTktNjY5NmVkYTdkMjI5XkEyXkFqcGdeQXVyNzQxNDExNTU@._V1_UY268_CR2,0,182,268_AL_.jpg" title="Persona Poster"/>
+</a> </div>
+<meta content="1967-03-16" itemprop="datePublished">
+</meta>
+<span itemprop="ratingValue">8.1</span>
+<IMDb link>
+http://www.imdb.com/title/tt0060827/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=A9F6CQZH5HNA9KY103MF&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_198
+</IMDb link>
+</html>
+</DOC>
+<DOC>
+<DOCNO>tt0095327</DOCNO>
+<html>
+<TEXT>
+<title>Grave of the Fireflies (1988) - IMDb</title>
+<span itemprop="director" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0847223/?ref_=tt_ov_dr" itemprop="url"><span class="itemprop" itemprop="name">Isao Takahata</span></a> </span>
+<div class="see-more inline canwrap" itemprop="genre">
+<h4 class="inline">Genres:</h4>
+<a href="/genre/Animation?ref_=tt_stry_gnr"> Animation</a> <span>|</span>
+<a href="/genre/Drama?ref_=tt_stry_gnr"> Drama</a> <span>|</span>
+<a href="/genre/War?ref_=tt_stry_gnr"> War</a>
+</div>
+<actor: characters>
+{'Tsutomu Tatsumi': 'Seita(voice)', 'Ayano Shiraishi': 'Setsuko(voice)', 'Yoshiko Shinohara': 'Mother(voice)', 'Akemi Yamaguchi': 'Aunt(voice)', 'Tadashi Nakamura': '(voice)', 'Marcy Bannor': 'Aunt(SentaiFilmworksdub)(voice)', 'Shelley Calene-Black': 'Mother(SentaiFilmworksdub)(voice)', 'Luci Christian': 'AdditionalVoices(SentaiFilmworksdub)(voice)', 'Shannon Conley': 'AdditionalVoices(CentralParkMediadub)(voice)', 'Justin Doran': 'AdditionalVoices(SentaiFilmworksdub)(voice)', 'Crispin Freeman': 'Doctors/OldMan(CentralParkMediadub)(voice)', 'Adam Gibbs': 'Seita(SentaiFilmworksdub)(voice)', 'Dan Green': 'AdditionalVoices(CentralParkMediadub)(voice)', 'Amy Jones': 'Aunt(CentralParkMediadub)(voice)', 'Susan O. Koozin': 'AdditionalVoices(SentaiFilmworksdub)(voice)(asSusanKoozin)'}
+</actor: characters>
+<Synopsis>
+The story of Seita and Satsuko, two young Japanese siblings, living in the declining days of World War II. When an American firebombing separates the two children from their parents, the two siblings must rely completely on one another while they struggle to fight for their survival. Written by
+Kyle Perez
+</Synopsis>
+</TEXT>
+<div class="poster">
+<a href="/title/tt0095327/mediaviewer/rm4029811968?ref_=tt_ov_i"> <img alt="Grave of the Fireflies Poster" itemprop="image" src="https://ia.media-imdb.com/images/M/MV5BZjEwNDVhZjMtYzA1MS00ZWUxLThjOGUtZTliNGZiNGYyMjA3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY268_CR4,0,182,268_AL_.jpg" title="Grave of the Fireflies Poster"/>
+</a> </div>
+<meta content="1988-04-16" itemprop="datePublished">
+</meta>
+<span itemprop="ratingValue">8.5</span>
+<IMDb link>
+http://www.imdb.com/title/tt0095327/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=A9F6CQZH5HNA9KY103MF&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_56
+</IMDb link>
+</html>
+</DOC>
+<DOC>
+<DOCNO>tt0055630</DOCNO>
+<html>
+<TEXT>
+<title>Yojimbo (1961) - IMDb</title>
+<span itemprop="director" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0000041/?ref_=tt_ov_dr" itemprop="url"><span class="itemprop" itemprop="name">Akira Kurosawa</span></a> </span>
+<div class="see-more inline canwrap" itemprop="genre">
+<h4 class="inline">Genres:</h4>
+<a href="/genre/Action?ref_=tt_stry_gnr"> Action</a> <span>|</span>
+<a href="/genre/Drama?ref_=tt_stry_gnr"> Drama</a> <span>|</span>
+<a href="/genre/Thriller?ref_=tt_stry_gnr"> Thriller</a>
+</div>
+<actor: characters>
+{'Toshirô Mifune': 'SanjuroKuwabatake/TheSamurai', 'Tatsuya Nakadai': 'Unosuke-Gunfighter', 'Yôko Tsukasa': 'Nui', 'Isuzu Yamada': 'Orin', 'Daisuke Katô': "Inokichi-Ushitora'sRotundBrother", 'Seizaburô Kawazu': 'Seibê-BrothelOperator', 'Takashi Shimura': 'Tokuemon-SakeBrewer', 'Hiroshi Tachikawa': 'Yoichiro', 'Yôsuke Natsuki': "Kohei'sSon", 'Eijirô Tôno': 'Gonji-TavernKeeper', 'Kamatari Fujiwara': 'Tazaemon', 'Ikio Sawamura': 'Hansuke', 'Atsushi Watanabe': 'TheCooper-Coffin-Maker', 'Susumu Fujita': 'Homma-InstructorWhoSkipsTown', 'Kyû Sazanka': 'Ushitora'}
+</actor: characters>
+<Synopsis>
+Sanjuro, a wandering samurai enters a rural town in nineteenth century Japan. After learning from the innkeeper that the town is divided between two gangsters, he plays one side off against the other. His efforts are complicated by the arrival of the wily Unosuke, the son of one of the gangsters, who owns a revolver. Unosuke has Sanjuro beaten after he reunites an abducted woman with her husband and son, then massacres his father's opponents. During the slaughter, the samurai escapes with the help of the innkeeper; but while recuperating at a nearby temple, he learns of innkeeper's abduction by Unosuke, and returns to the town to confront him. Written by
+Bernard Keane <BKeane2@email.dot.gov.au>
+</Synopsis>
+</TEXT>
+<div class="poster">
+<a href="/title/tt0055630/mediaviewer/rm1707082240?ref_=tt_ov_i"> <img alt="Yojimbo Poster" itemprop="image" src="https://ia.media-imdb.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL_.jpg" title="Yojimbo Poster"/>
+</a> </div>
+<meta content="1961-09-13" itemprop="datePublished">
+</meta>
+<span itemprop="ratingValue">8.3</span>
+<IMDb link>
+http://www.imdb.com/title/tt0055630/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=A9F6CQZH5HNA9KY103MF&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_113
+</IMDb link>
+</html>
+</DOC>
+<DOC>
+<DOCNO>tt0073486</DOCNO>
+<html>
+<TEXT>
+<title>One Flew Over the Cuckoo's Nest (1975) - IMDb</title>
+<span itemprop="director" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0001232/?ref_=tt_ov_dr" itemprop="url"><span class="itemprop" itemprop="name">Milos Forman</span></a> </span>
+<div class="see-more inline canwrap" itemprop="genre">
+<h4 class="inline">Genres:</h4>
+<a href="/genre/Drama?ref_=tt_stry_gnr"> Drama</a>
+</div>
+<actor: characters>
+{'Michael Berryman': 'Ellis', 'Peter Brocco': 'Col.Matterson', 'Dean R. Brooks': 'Dr.Spivey', 'Alonzo Brown': 'Miller', 'Scatman Crothers': 'Turkle', 'Mwako Cumbuka': 'Warren', 'Danny DeVito': 'Martini', 'William Duell': 'Sefelt', 'Josip Elic': 'Bancini', 'Lan Fendors': 'NurseItsu', 'Louise Fletcher': 'NurseRatched', 'Nathan George': 'Washington', 'Ken Kenny': 'BeansGarfield', 'Mel Lambert': 'HarborMaster', 'Sydney Lassick': 'Cheswick'}
+</actor: characters>
+<Synopsis>
+McMurphy has a criminal past and has once again gotten himself into trouble and is sentenced by the court. To escape labor duties in prison, McMurphy pleads insanity and is sent to a ward for the mentally unstable. Once here, McMurphy both endures and stands witness to the abuse and degradation of the oppressive Nurse Ratched, who gains superiority and power through the flaws of the other inmates. McMurphy and the other inmates band together to make a rebellious stance against the atrocious Nurse. Written by
+Jacob Oberfrank
+</Synopsis>
+</TEXT>
+<div class="poster">
+<a href="/title/tt0073486/mediaviewer/rm2186479360?ref_=tt_ov_i"> <img alt="One Flew Over the Cuckoo's Nest Poster" itemprop="image" src="https://ia.media-imdb.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" title="One Flew Over the Cuckoo's Nest Poster"/>
+</a> </div>
+<meta content="1975-11-19" itemprop="datePublished">
+</meta>
+<span itemprop="ratingValue">8.7</span>
+<IMDb link>
+http://www.imdb.com/title/tt0073486/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=A9F6CQZH5HNA9KY103MF&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_16
+</IMDb link>
+</html>
+</DOC>
+<DOC>
+<DOCNO>tt0046438</DOCNO>
+<html>
+<TEXT>
+<title>Tokyo Story (1953) - IMDb</title>
+<span itemprop="director" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0654868/?ref_=tt_ov_dr" itemprop="url"><span class="itemprop" itemprop="name">Yasujirô Ozu</span></a> </span>
+<div class="see-more inline canwrap" itemprop="genre">
+<h4 class="inline">Genres:</h4>
+<a href="/genre/Drama?ref_=tt_stry_gnr"> Drama</a>
+</div>
+<actor: characters>
+{'Chishû Ryû': 'ShukichiHirayama', 'Chieko Higashiyama': 'TomiHirayama', 'Setsuko Hara': 'NorikoHirayama', 'Haruko Sugimura': 'ShigeKaneko', 'Sô Yamamura': 'KoichiHirayama', 'Kuniko Miyake': 'FumikoHirayama-hiswife', 'Kyôko Kagawa': 'KyôkoHirayama', 'Eijirô Tôno': 'SanpeiNumata', 'Nobuo Nakamura': 'KurazoKaneko', 'Shirô Ôsaka': 'KeizoHirayama', 'Hisao Toake': 'OsamuHattori', 'Teruko Nagaoka': 'YoneHattori', 'Mutsuko Sakura': 'Oden-yanoonna', 'Toyo Takahashi': 'Rinkanosaikun(asToyokoTakahashi)', 'Tôru Abe': 'Tetsudou-shokuin'}
+</actor: characters>
+<Synopsis>
+An elderly couple journey to Tokyo to visit their children and are confronted by indifference, ingratitude and selfishness. When the parents are packed off to a resort by their busy, impatient children, the film deepens into an unbearably moving meditation on mortality. Written by
+Paul Watabe
+</Synopsis>
+</TEXT>
+<div class="poster">
+<a href="/title/tt0046438/mediaviewer/rm1335648000?ref_=tt_ov_i"> <img alt="Tokyo Story Poster" itemprop="image" src="https://ia.media-imdb.com/images/M/MV5BZjVlNGJmMmQtN2Q1NC00Zjk3LWI0NDctZWFjMWM0NTc4MmI0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY268_CR3,0,182,268_AL_.jpg" title="Tokyo Story Poster"/>
+</a> </div>
+<meta content="1972-03-13" itemprop="datePublished">
+</meta>
+<span itemprop="ratingValue">8.2</span>
+<IMDb link>
+http://www.imdb.com/title/tt0046438/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=A9F6CQZH5HNA9KY103MF&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_170
+</IMDb link>
+</html>
+</DOC>
+<DOC>
+<DOCNO>tt0118694</DOCNO>
+<html>
+<TEXT>
+<title>In the Mood for Love (2000) - IMDb</title>
+<span itemprop="director" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0939182/?ref_=tt_ov_dr" itemprop="url"><span class="itemprop" itemprop="name">Kar-Wai Wong</span></a> (as Kar Wai Wong)            </span>
+<div class="see-more inline canwrap" itemprop="genre">
+<h4 class="inline">Genres:</h4>
+<a href="/genre/Drama?ref_=tt_stry_gnr"> Drama</a> <span>|</span>
+<a href="/genre/Romance?ref_=tt_stry_gnr"> Romance</a>
+</div>
+<actor: characters>
+{'Maggie Cheung': 'SuLi-zhen-Mrs.Chan', 'Tony Chiu-Wai Leung': 'ChowMo-wan(asTonyChiuWaiLeung)', 'Ping Lam Siu': 'AhPing', "Tung Cho 'Joe' Cheung": "ManlivinginMr.Koo'sapartment", 'Rebecca Pan': 'Mrs.Suen', 'Kelly Lai Chen': 'Mr.Ho(asLaiChen)', 'Man-Lei Chan': 'Mr.Koo', 'Szu-Ying Chien': 'Amah(asTsi-AngChin)', 'Roy Cheung': 'Mr.Chan(voice)', 'Paulyn Sun': 'Mrs.Chow(voice)', 'Po-chun Chow': '', 'Kam-Wah Koo': '', 'Hsien Yu': ''}
+</actor: characters>
+<Synopsis>
+Set in Hong Kong, 1962, Chow Mo-Wan is a newspaper editor who moves into a new building with his wife. At the same time, Su Li-zhen, a beautiful secretary and her executive husband also move in to the crowded building. With their spouses often away, Chow and Li-zhen spend most of their time together as friends. They have everything in common from noodle shops to martial arts. Soon, they are shocked to discover that their spouses are having an affair. Hurt and angry, they find comfort in their growing friendship even as they resolve not to be like their unfaithful mates. Written by
+Anonymous
+</Synopsis>
+</TEXT>
+<div class="poster">
+<a href="/title/tt0118694/mediaviewer/rm3776003840?ref_=tt_ov_i"> <img alt="In the Mood for Love Poster" itemprop="image" src="https://ia.media-imdb.com/images/M/MV5BYjVhMTE3YzEtOGEwYS00NjFmLWFjYzAtMGVjNjY3YWY4OTJhL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg" title="In the Mood for Love Poster"/>
+</a> </div>
+<meta content="2001-03-09" itemprop="datePublished">
+</meta>
+<span itemprop="ratingValue">8.1</span>
+<IMDb link>
+http://www.imdb.com/title/tt0118694/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=A9F6CQZH5HNA9KY103MF&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_238
+</IMDb link>
+</html>
+</DOC>
+<DOC>
+<DOCNO>tt0107048</DOCNO>
+<html>
+<TEXT>
+<title>Groundhog Day (1993) - IMDb</title>
+<span itemprop="director" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0000601/?ref_=tt_ov_dr" itemprop="url"><span class="itemprop" itemprop="name">Harold Ramis</span></a> </span>
+<div class="see-more inline canwrap" itemprop="genre">
+<h4 class="inline">Genres:</h4>
+<a href="/genre/Comedy?ref_=tt_stry_gnr"> Comedy</a> <span>|</span>
+<a href="/genre/Fantasy?ref_=tt_stry_gnr"> Fantasy</a> <span>|</span>
+<a href="/genre/Romance?ref_=tt_stry_gnr"> Romance</a>
+</div>
+<actor: characters>
+{'Bill Murray': 'Phil', 'Andie MacDowell': 'Rita', 'Chris Elliott': 'Larry', 'Stephen Tobolowsky': 'Ned', 'Brian Doyle-Murray': 'Buster', 'Marita Geraghty': 'Nancy', 'Angela Paton': 'Mrs.Lancaster', 'Rick Ducommun': 'Gus', 'Rick Overton': 'Ralph', 'Robin Duke': 'DoristheWaitress', 'Carol Bivins': 'Anchorwoman', 'Willie Garson': "Phil'sAssistantKenny", 'Ken Hudson Campbell': 'ManinHallway', 'Les Podewell': 'OldMan', 'Rod Sell': 'GroundhogOfficial'}
+</actor: characters>
+<Synopsis>
+A weather man is reluctantly sent to cover a story about a weather forecasting "rat" (as he calls it). This is his fourth year on the story, and he makes no effort to hide his frustration. On awaking the 'following' day he discovers that it's Groundhog Day again, and again, and again. First he uses this to his advantage, then comes the realisation that he is doomed to spend the rest of eternity in the same place, seeing the same people do the same thing EVERY day. Written by
+Rob Hartill
+</Synopsis>
+</TEXT>
+<div class="poster">
+<a href="/title/tt0107048/mediaviewer/rm4118549504?ref_=tt_ov_i"> <img alt="Groundhog Day Poster" itemprop="image" src="https://ia.media-imdb.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg" title="Groundhog Day Poster"/>
+</a> </div>
+<meta content="1993-02-12" itemprop="datePublished">
+</meta>
+<span itemprop="ratingValue">8.0</span>
+<IMDb link>
+http://www.imdb.com/title/tt0107048/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=A9F6CQZH5HNA9KY103MF&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_231
+</IMDb link>
+</html>
+</DOC>
+<DOC>
+<DOCNO>tt0468569</DOCNO>
+<html>
+<TEXT>
+<title>The Dark Knight (2008) - IMDb</title>
+<span itemprop="director" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0634240/?ref_=tt_ov_dr" itemprop="url"><span class="itemprop" itemprop="name">Christopher Nolan</span></a> </span>
+<div class="see-more inline canwrap" itemprop="genre">
+<h4 class="inline">Genres:</h4>
+<a href="/genre/Action?ref_=tt_stry_gnr"> Action</a> <span>|</span>
+<a href="/genre/Crime?ref_=tt_stry_gnr"> Crime</a> <span>|</span>
+<a href="/genre/Drama?ref_=tt_stry_gnr"> Drama</a> <span>|</span>
+<a href="/genre/Thriller?ref_=tt_stry_gnr"> Thriller</a>
+</div>
+<actor: characters>
+{'Christian Bale': 'BruceWayne', 'Heath Ledger': 'Joker', 'Aaron Eckhart': 'HarveyDent', 'Michael Caine': 'Alfred', 'Maggie Gyllenhaal': 'Rachel', 'Gary Oldman': 'Gordon', 'Morgan Freeman': 'LuciusFox', 'Monique Gabriela Curnen': 'Ramirez', 'Ron Dean': 'Wuertz', 'Cillian Murphy': 'Scarecrow', 'Chin Han': 'Lau', 'Nestor Carbonell': 'Mayor', 'Eric Roberts': 'Maroni', 'Ritchie Coster': 'Chechen', 'Anthony Michael Hall': 'MikeEngel'}
+</actor: characters>
+<Synopsis>
+Set within a year after the events of Batman Begins, Batman, Lieutenant James Gordon, and new district attorney Harvey Dent successfully begin to round up the criminals that plague Gotham City until a mysterious and sadistic criminal mastermind known only as the Joker appears in Gotham, creating a new wave of chaos. Batman's struggle against the Joker becomes deeply personal, forcing him to "confront everything he believes" and improve his technology to stop him. A love triangle develops between Bruce Wayne, Dent and Rachel Dawes. Written by
+Leon Lombardi
+</Synopsis>
+</TEXT>
+<div class="poster">
+<a href="/title/tt0468569/mediaviewer/rm4023877632?ref_=tt_ov_i"> <img alt="The Dark Knight Poster" itemprop="image" src="https://ia.media-imdb.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg" title="The Dark Knight Poster"/>
+</a> </div>
+<meta content="2008-07-18" itemprop="datePublished">
+</meta>
+<span itemprop="ratingValue">9.0</span>
+<IMDb link>
+http://www.imdb.com/title/tt0468569/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=A9F6CQZH5HNA9KY103MF&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_4
+</IMDb link>
+</html>
+</DOC>
+<DOC>
+<DOCNO>tt0116282</DOCNO>
+<html>
+<TEXT>
+<title>Fargo (1996) - IMDb</title>
+<span itemprop="director" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0001054/?ref_=tt_ov_dr" itemprop="url"><span class="itemprop" itemprop="name">Joel Coen</span></a>,             </span>
+<div class="see-more inline canwrap" itemprop="genre">
+<h4 class="inline">Genres:</h4>
+<a href="/genre/Crime?ref_=tt_stry_gnr"> Crime</a> <span>|</span>
+<a href="/genre/Drama?ref_=tt_stry_gnr"> Drama</a> <span>|</span>
+<a href="/genre/Thriller?ref_=tt_stry_gnr"> Thriller</a>
+</div>
+<actor: characters>
+{'William H. Macy': 'JerryLundegaard', 'Steve Buscemi': 'CarlShowalter', 'Peter Stormare': 'GaearGrimsrud', 'Kristin Rudrüd': 'JeanLundegaard', 'Harve Presnell': 'WadeGustafson', 'Tony Denman': 'ScottyLundegaard', 'Gary Houston': 'IrateCustomer', 'Sally Wingert': "IrateCustomer'sWife", 'Kurt Schweickhardt': 'CarSalesman', 'Larissa Kokernot': 'Hooker#1', 'Melissa Peterman': 'Hooker#2', 'Steve Reevis': 'ShepProudfoot(asStevenReevis)', 'Warren Keith': 'ReillyDiefenbach(voice)', 'Steve Edelman': 'MorningShowHost', 'Sharon Anderson': 'MorningShowHostess'}
+</actor: characters>
+<Synopsis>
+Jerry works in his father-in-law's car dealership and has gotten himself in financial problems. He tries various schemes to come up with money needed for a reason that is never really explained. It has to be assumed that his huge embezzlement of money from the dealership is about to be discovered by father-in-law. When all else falls through, plans he set in motion earlier for two men to kidnap his wife for ransom to be paid by her wealthy father (who doesn't seem to have the time of day for son-in-law). From the moment of the kidnapping, things go wrong and what was supposed to be a non-violent affair turns bloody with more blood added by the minute. Jerry is upset at the bloodshed, which turns loose a pregnant sheriff from Brainerd, MN who is tenacious in attempting to solve the three murders in her jurisdiction. Written by
+Anonymous
+</Synopsis>
+</TEXT>
+<div class="poster">
+<a href="/title/tt0116282/mediaviewer/rm3153550848?ref_=tt_ov_i"> <img alt="Fargo Poster" itemprop="image" src="https://ia.media-imdb.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg" title="Fargo Poster"/>
+</a> </div>
+<meta content="1996-04-05" itemprop="datePublished">
+</meta>
+<span itemprop="ratingValue">8.1</span>
+<IMDb link>
+http://www.imdb.com/title/tt0116282/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=A9F6CQZH5HNA9KY103MF&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_161
+</IMDb link>
+</html>
+</DOC>
